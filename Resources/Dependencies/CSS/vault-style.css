@@ -12,10 +12,6 @@
     font-family: CaviarDreams;
 }
 @font-face{
-    src: url(/Resources/Dependencies/Font/Gravity-Book.otf);
-    font-family: GravityBook;
-}
-@font-face{
     src: url(/Resources/Dependencies/Font/Square.ttf);
     font-family: Square;
 }
