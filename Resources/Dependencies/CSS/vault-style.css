@@ -88,8 +88,10 @@ a {
 }
 
 a:hover {
-    color: rgb(227, 197, 240);
+    color: rgb(189, 245, 247);
 }
+
+
 /* Style for Chapters */
 
 .chapter-container {
