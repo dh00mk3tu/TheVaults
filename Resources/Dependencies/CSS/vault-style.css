@@ -81,11 +81,11 @@ ul li {
 
 a {
     letter-spacing: 0px;
-    font-size: 20px;
+    font-size: 25px;
     margin: 10px;
     color: #fff;
     /* font-weight: bold; */
-    font-family: CodeBold;
+    font-family: monospace;
     /* text-decoration: none; */
 }
 
