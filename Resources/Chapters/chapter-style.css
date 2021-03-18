@@ -93,6 +93,23 @@ a:hover {
     color: rgb(189, 245, 247);
 }
 
+
+/* Style for Chapters */
+
+
+.chapter-container {
+    margin: 1em;
+}
+
+.chapter-container p {
+    color: #fff;
+    font-weight: bold;
+    font-size: 15px;
+    font-family: 'Aaargh';
+    margin: 0.5em;
+}
+
+
 /* Responsive */
 
 @media(max-width: 500px) {
