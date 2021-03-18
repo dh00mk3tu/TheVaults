@@ -63,7 +63,7 @@
 .chapters {
     display: flex;
     flex-direction: column;
-    margin-top: 2em;
+    margin-top: 1em;
 }
 ul li {
     list-style: none;
