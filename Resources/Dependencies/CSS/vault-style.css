@@ -111,8 +111,11 @@ a:hover {
 
 /* Responsive */
 
-@media(max-width: 990px) {
+@media(max-width: 500px) {
     .header .caption {
         font-size:12px;
+    }
+    .log-title {
+        font-size: 25px;
     }
 } 
