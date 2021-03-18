@@ -19,6 +19,14 @@
     src: url(/Resources/Dependencies/Font/Square.ttf);
     font-family: Square;
 }
+@font-face{
+    src: url(/Resources/Dependencies/Font/CODE\ Bold.otf);
+    font-family: CodeBold;
+}
+@font-face{
+    src:url(/Resources/Dependencies/Font/CODE\ Light.otf);
+    font-family: CodeLight;
+}
 * {
     margin: 0;
     padding: 0;
