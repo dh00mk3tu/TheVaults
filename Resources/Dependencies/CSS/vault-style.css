@@ -5,19 +5,19 @@
 @font-face{
     src: url(/Resources/Dependencies/Font/Aaargh.ttf);
     font-size: 30px;
-    font-family: homePage;
+    font-family: Aaargh;
 }
 @font-face{
-    src: url(/Resources/Dependencies/Font/Aaargh.ttf);
-    font-family: headings;
+    src: url(/Resources/Dependencies/Font/CaviarDreams.ttf);
+    font-family: CaviarDreams;
 }
 @font-face{
-    src: url(/Resources/Dependencies/Font/Aaargh.ttf);
-    font-family: heading2;
+    src: url(/Resources/Dependencies/Font/Gravity-Book.otf);
+    font-family: GravityBook;
 }
 @font-face{
-    src: url(/Resources/Dependencies/Font/Aaargh.ttf);
-    font-family: text;
+    src: url(/Resources/Dependencies/Font/Square.ttf);
+    font-family: Square;
 }
 * {
     margin: 0;
