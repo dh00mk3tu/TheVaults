@@ -59,9 +59,10 @@
     font-size: 50px;
     font-family: Square;
 }
-ol {
+.chapters {
+    display: flex;
+    flex-direction: column;
     margin-top: 2em;
-
 }
 ol li {
     font-family: GravityBook;
