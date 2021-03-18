@@ -44,7 +44,7 @@
     margin: .1em 1em;
     font-size:20px;
     font-weight: bold;
-    font-family: Aaargh;
+    font-family: 'Aaargh';
 }
 .container {
     display: flex;
@@ -61,7 +61,7 @@
     color: #fff;
     font-size: 50px;
     padding-top: .5em;
-    font-family: Square;
+    font-family: 'Square';
 }
 .chapters {
     display: flex;
@@ -71,7 +71,7 @@
 
 ul li {
     list-style: none;
-    font-family: Square;
+    font-family: 'Square';
     font-weight: bold;
     color: rgb(119, 119, 119);
     text-align: center;
@@ -96,6 +96,7 @@ a:hover {
 
 /* Style for Chapters */
 
+
 .chapter-container {
     margin: 1em;
 }
@@ -104,7 +105,7 @@ a:hover {
     color: #fff;
     font-weight: bold;
     font-size: 15px;
-    font-family: Aaargh;
+    font-family: 'Aaargh';
     margin: 0.5em;
 }
 
