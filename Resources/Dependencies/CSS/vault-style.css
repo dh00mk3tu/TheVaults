@@ -19,7 +19,7 @@
     font-family: CodeBold;
 }
 @font-face{
-    src:url(/TheVaults/Resources/Dependencies/Font/CODE\ Light.otf);
+    src:url(TheVaults/Resources/Dependencies/Font/CODE\ Light.otf);
     font-family: CodeLight;
 }
 * {
