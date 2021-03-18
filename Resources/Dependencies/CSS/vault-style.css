@@ -22,7 +22,7 @@
 * {
     margin: 0;
     padding: 0;
-    background-color: rgb(20, 16, 24);
+    background-color: rgb(26, 24, 27);
 }
 
 .header {
@@ -76,6 +76,7 @@ ul li {
 
 
 a {
+    font-size: 17px;
     margin: 10px;
     color: #fff;
     /* text-decoration: none; */
