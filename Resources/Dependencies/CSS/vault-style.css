@@ -112,7 +112,7 @@ a:hover {
 /* Responsive */
 
 @media(max-width: 990px) {
-    .caption {
-        font-size:5px;
+    .header .caption {
+        font-size:12px;
     }
 } 
