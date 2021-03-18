@@ -3,23 +3,23 @@
 /* Font Imports */
 
 @font-face{
-    src: url(/Resources/Dependencies/Font/Aaargh.ttf);
+    src: url(/TheVaults/Resources/Dependencies/Font/Aaargh.ttf);
     font-family: Aaargh;
 }
 @font-face{
-    src: url(/Resources/Dependencies/Font/CaviarDreams.ttf);
+    src: url(/TheVaults/Resources/Dependencies/Font/CaviarDreams.ttf);
     font-family: CaviarDreams;
 }
 @font-face{
-    src: url(/Resources/Dependencies/Font/Square.ttf);
+    src: url(/TheVaults/Resources/Dependencies/Font/Square.ttf);
     font-family: Square;
 }
 @font-face{
-    src: url(/Resources/Dependencies/Font/CODE\ Bold.otf);
+    src: url(/TheVaults/Resources/Dependencies/Font/CODE\ Bold.otf);
     font-family: CodeBold;
 }
 @font-face{
-    src:url(/Resources/Dependencies/Font/CODE\ Light.otf);
+    src:url(/TheVaults/Resources/Dependencies/Font/CODE\ Light.otf);
     font-family: CodeLight;
 }
 * {
