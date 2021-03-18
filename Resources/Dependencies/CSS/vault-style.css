@@ -77,3 +77,9 @@ a {
     color: #fff;
     /* text-decoration: none; */
 }
+
+/* Style for Chapters */
+
+.chapter-container {
+    margin: 1em;
+}
