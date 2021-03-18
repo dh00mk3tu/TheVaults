@@ -65,16 +65,16 @@
     margin-top: 2em;
 }
 ul li {
+    list-style: none;
     font-family: GravityBook;
     font-weight: bold;
     color: #fff;
     text-align: center;
     font-size: 20px;
+    text-decoration: muted;
 }
 
-ul li p {
-    
-}
+
 
 a {
     margin: 10px;
