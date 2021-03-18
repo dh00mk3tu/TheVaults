@@ -110,6 +110,8 @@ a:hover {
     bottom: 0;
     width:100%;
     box-shadow: 0 0 5px 5px rgba(148, 180, 255, 0.5);
+    padding: 0.2em;
+
 }
 
 .footer-container p {
