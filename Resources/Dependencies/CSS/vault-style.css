@@ -40,7 +40,8 @@
 .header .caption {
     margin: 1em;
     font-size:20px;
-    font-family: Square;
+    font-weight: bold;
+    font-family: Aaargh;
 }
 .container {
     display: flex;
@@ -56,5 +57,5 @@
     text-align: center;
     color: #fff;
     font-size: 50px;
-    font-family: 'heading2';
+    font-family: Square;
 }
