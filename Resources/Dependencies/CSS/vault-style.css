@@ -87,6 +87,9 @@ a {
     /* text-decoration: none; */
 }
 
+a:hover {
+    color: rgb(227, 197, 240);
+}
 /* Style for Chapters */
 
 .chapter-container {
