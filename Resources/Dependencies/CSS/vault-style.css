@@ -62,10 +62,11 @@
 ol li {
     font-family: GravityBook;
     color: #fff;
+    font-size: 20px;
 }
 
 a {
     color: #fff;
-    text-decoration: none;
+    /* text-decoration: none; */
 
 }
