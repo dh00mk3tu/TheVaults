@@ -61,6 +61,11 @@
 }
 ol li {
     font-family: GravityBook;
-    text-decoration: none;
     color: #fff;
+}
+
+a {
+    color: #fff;
+    text-decoration: none;
+
 }
