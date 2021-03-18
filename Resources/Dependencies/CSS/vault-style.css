@@ -1,5 +1,24 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Cute+Font&display=swap');
 
+/* Font Imports */
+
+@font-face{
+    src: url(/Resources/Dependencies/Font/Aaargh.ttf);
+    font-size: 30px;
+    font-family: homePage;
+}
+@font-face{
+    src: url(/Resources/Dependencies/Font/Aaargh.ttf);
+    font-family: headings;
+}
+@font-face{
+    src: url(/Resources/Dependencies/Font/Aaargh.ttf);
+    font-family: heading2;
+}
+@font-face{
+    src: url(/Resources/Dependencies/Font/Aaargh.ttf);
+    font-family: text;
+}
 * {
     margin: 0;
     padding: 0;
